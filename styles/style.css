@@ -1,0 +1,27 @@
+body, html{
+    width: 100%;
+    height: 100px; 
+    font-family: 'Poppins', sans-serif;
+    color: #222; 
+}
+.navbar-brad img{
+    width: 100px;
+}
+.navbar-nav li{
+    padding-right: 20px;
+}
+.nav-link{
+    font-size: 1.1em !important;
+}
+
+.mt-0 {
+    margin-top: 1 !important;
+  }
+/* 
+  .form-container > div{
+    margin: 10px 20px;
+} */
+.px-2 {
+    padding-left: (spacer * .5) !important;
+    padding-right: (spacer * .5) !important;
+  }
